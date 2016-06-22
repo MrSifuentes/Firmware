@@ -6,6 +6,7 @@ set(config_uavcan_num_ifaces 2)
 
 set(config_module_list
 	#
+	examples/px4_simple_app
 	# Board support modules
 	#
 	drivers/device
